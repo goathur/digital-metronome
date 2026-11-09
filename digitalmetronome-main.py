@@ -1,3 +1,6 @@
+# DIGITAL METRONOME BY GOATHUR
+# INTERFACES WITH I2C TO LCD SCRIPT BY GIGAFIDE
+
 import machine
 import utime
 from machine import Pin
